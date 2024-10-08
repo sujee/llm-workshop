@@ -12,7 +12,9 @@ Email: sujee@node51.com
 
 ## Agenda
 
-### 1 - [Embeddings](embeddings/README.md)
+### 1 - [Tokenizers](tokenizers/README.md)
+
+### 2 - [Embeddings](embeddings/README.md)
 
 
 ### 2 - Vector Search?
