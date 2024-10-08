@@ -14,7 +14,7 @@ https://lmstudio.ai/
 
 ## Step-2: Setup a Local Python Development Env
 
-Follow [setup-python-dev-env.md](../setup-python-dev-env.md) to setup your local python dev environment.
+Follow [setup-python-dev-env.md](setup-python-dev-env.md) to setup your local python dev environment.
 
 ## Step-3: Sign up for Replicate
 
