@@ -65,10 +65,10 @@ At the end, it is a trade off between **accuracy and performancee**
 
 ## Code
 
-1 - [Run embedding models locally](1-embeddings-local.ipynb)
+1 - [Run embedding models locally](1_embeddings_local.ipynb)  
 
-2 - [Use OpenAI embedding model](2-embeddings-openai.ipynb)
+2 - [Use OpenAI embedding model](2_embeddings_openai.ipynb)
 
-3 - [Calculating consine similarity between embeddings](3-embeddings-cosine.ipynb)
+3 - [Calculating consine similarity between embeddings](3_embeddings_cosine.ipynb)
 
-4 - [Vector search using embeddings](4-embeddings-similarty-search.ipynb)
+4 - [Vector search using embeddings](4_embeddings_similarty_search.ipynb)
