@@ -4,16 +4,21 @@ We will build, package and deploy a sample LLM app
 
 We will use [streamlit](https://streamlit.io/) framework to build nice, easy UIs
 
+## 1 - Inspect the Code
 
-## 1 - Launch app
+Using Replicate [chat_app1_replicate.py](chat_app1_replicate.py)
 
-### 1.1 - Replicate
+Using OpenAI [chat_app1_openai.py](chat_app1_openai.py)
+
+## 2 - Launch app
+
+### 2.1 - Replicate
 
 ```bash
 streamlit  run chat_app1_replicate.py
 ```
 
-### 1.2 - OpenAI
+### 2.2 - OpenAI
 
 ```bash
 streamlit  run chat_app1_openai.py
@@ -22,11 +27,11 @@ streamlit  run chat_app1_openai.py
 This will open a browser.  Or go to the default url: http://localhost:8501
 
 
-## 2 - Containerize the app
+## 3 - Containerize the app
 
 For this step, you will need to have [Docker](https://www.docker.com/) installed and setup on your machine.
 
-### 2.1 - Env file
+### 3.1 - Env file
 
 Copy the `.env` file from project directory to this directory.  You may use a file manager / editor to do this.
 
@@ -39,7 +44,7 @@ cp   .env    llm-apps/.env
 ```
 
 
-### 2.2 - Build Docker
+### 3.2 - Build Docker
 
 ```bash
 docker build .  -t llm-app
@@ -58,7 +63,7 @@ REPOSITORY              TAG             IMAGE ID       CREATED         SIZE
 llm-app                       latest               6c85f9a56c2f   16 seconds ago   1.54GB
 ```
 
-### 2.3 - Running the Docker
+## 4 -  Running the Docker
 
 
 ```bash

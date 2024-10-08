@@ -23,3 +23,5 @@ Email: sujee@node51.com
 ### 3 - [Vector Databases](vector-db/README.md)
 
 ### 3 - [Working with LLMs](llm-intro/README.md)
+
+### 4 - [Building LLM apps](llm-apps/README.md)
