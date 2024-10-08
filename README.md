@@ -16,5 +16,4 @@ Email: sujee@node51.com
 
 ### 2 - [Embeddings](embeddings/README.md)
 
-
-### 2 - Vector Search?
+### 3 - Vector Search?

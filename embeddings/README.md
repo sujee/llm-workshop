@@ -31,11 +31,6 @@ Here are a select models for comparison.  Taken from leaderboard : https://huggi
 | sentence-transformers/all-MiniLM-L6-v2  | 56.x          | 91 MB      |              | 384              | Apache 2 | https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2  |
 
 
-## Create Embeddings
-
-[Run embedding models locally](./embeddings-local.ipynb)
-
-[Use OpenAI embedding model]()
 
 
 ## Benchmark
@@ -65,3 +60,15 @@ At the end, it is a trade off between **accuracy and performancee**
 | sentence-transformers/all-mpnet-base-v2 | 438 MB     | 768              | 6.65                            | 20.5                               |
 | sentence-transformers/all-MiniLM-L12-v2 | 134 MB     | 384              | 6.74                            | 9.4                                |
 | sentence-transformers/all-MiniLM-L6-v2  | 91 MB      | 384              | 3.68                            | 4.8                                |
+
+
+
+## Code
+
+1 - [Run embedding models locally](1-embeddings-local.ipynb)
+
+2 - [Use OpenAI embedding model](2-embeddings-openai.ipynb)
+
+3 - [Calculating consine similarity between embeddings](3-embeddings-cosine.ipynb)
+
+4 - [Vector search using embeddings](4-embeddings-similarty-search.ipynb)
