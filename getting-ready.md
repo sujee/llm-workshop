@@ -1,22 +1,26 @@
 # Getting Ready for the Workshop
 
-## Step-1: Basic dev tools
+## Step-1: (Necessary) Basic dev tools
 
 Please have the following tools
 - git
 - a good editor (VSCode ..etc)
 
-## Step-2: Download `LMSTUDIO`
+## Step-2: (Necessary) Download LLM Run apps
 
 We will use it to run LLMs locally.
 
-https://lmstudio.ai/
+Download the following:
 
-## Step-2: Setup a Local Python Development Env
+- [LM Studio](https://lmstudio.ai/)
+- [Jan.ai](https://jan.ai/)
+
+
+## Step-2: (Necessary) Setup a Local Python Development Env
 
 Follow [setup-python-dev-env.md](setup-python-dev-env.md) to setup your local python dev environment.
 
-## Step-3: Sign up for Replicate
+## Step-3: (Necessary) Sign up for Replicate
 
 Get a **free** account at [replicate](https://replicate.com/home)
 
@@ -28,17 +32,22 @@ Once you sign up, **create a token**
 
 The free account will give you a few API calls for free.  That is enough for this workshop.
 
-## Step-5: (Optional) Create an OPENAI API Key
-
-Sign up for [open ai api](https://openai.com/api/) - if you like to use OpenAI products
-
-## Step-6: (Optional) Sign up for MongoDB Atlas
-
-If you like to use MongoDB Atlas, [sign up and setup MongoDB Atlas](./setup-atlas.md)
-
-## Step-7: Create an .env file
+## Step-4: (Necessary) Create an .env file
 
 Copy [env.txt](env.txt) into `.env` in project root directory
 
 Populate your API keys in `.env` file
+
+## Step-5: (Preferred) Install Docker
+
+Install [Docker](https://www.docker.com/) for your machine.
+
+## Step-6: (Preferred) Get an OPENAI API Key
+
+Sign up for [open ai api](https://openai.com/api/) - if you like to use OpenAI products
+
+## Step-7: (Optional) Sign up for MongoDB Atlas
+
+If you like to use MongoDB Atlas, [sign up and setup MongoDB Atlas](./setup-atlas.md)
+
 
