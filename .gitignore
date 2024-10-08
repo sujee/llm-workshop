@@ -2,8 +2,6 @@
 __pycache__
 .ipynb_checkpoints
 llama-index-cache/
-models
 
-
-
-tmp/
+# database files
+*.db*
