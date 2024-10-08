@@ -42,6 +42,8 @@ openai
 replicate
 # llama-cpp-python
 
+ollama
+
 
 ## pdf handling
 PyPDF2
