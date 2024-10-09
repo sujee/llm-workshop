@@ -25,3 +25,5 @@ Email: sujee@node51.com
 ### 3 - [Working with LLMs](llm-intro/README.md)
 
 ### 4 - [Building LLM apps](llm-apps/README.md)
+
+### 5 - [RAG (Retrieval-Augmented Generation) 1](./rag-1/README.md)
