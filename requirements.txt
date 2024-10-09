@@ -1,5 +1,6 @@
 ## Generic utils
 python-dotenv
+html2text
 
 
 ## MongoDB
@@ -23,6 +24,8 @@ transformers
 ## llama-index
 
 llama-index
+
+llama-index-readers-web
 
 llama-index-embeddings-huggingface
 llama-index-embeddings-openai
