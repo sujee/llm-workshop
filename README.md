@@ -22,10 +22,10 @@ Email: sujee@node51.com
 
 ### 3 - [Vector Databases](vector-db/README.md)
 
-### 3 - [Working with LLMs](llm-intro/README.md)
+### 4 - [Working with LLMs](llm-intro/README.md)
 
-### 4 - [Building LLM apps](llm-apps/README.md)
+### 5 - [Building LLM apps](llm-apps/README.md)
 
-### 5 - [RAG 1 - Query PDFs](./rag-1/README.md)
+### 6 - [RAG 1 - Query PDFs](./rag-1/README.md)
 
-### 6 - [RAG 2 - Query a website](/rag-2/README.md)
+### 7 - [RAG 2 - Query a website](/rag-2/README.md)

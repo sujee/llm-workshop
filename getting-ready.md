@@ -10,10 +10,11 @@ Please have the following tools
 
 We will use it to run LLMs locally.
 
-Download the following:
+Download one the following:
 
 - [LM Studio](https://lmstudio.ai/)
 - [Jan.ai](https://jan.ai/)
+- Or any other local LLM UI you like to use.
 
 
 ## Step-2: (Necessary) Setup a Local Python Development Env
