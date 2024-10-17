@@ -14,6 +14,12 @@ Email: sujee@node51.com
 
 [Getting Ready](getting-ready.md) guide
 
+## Support
+
+Please use [Discord channnel](https://discordapp.com/channels/1286815214670712863/1296351643239190538) setup for this workshop.
+
+[Join link](https://discord.gg/c8TnEyVABD)
+
 ## Agenda
 
 ### 1 - [Tokenizers](tokenizers/README.md)
